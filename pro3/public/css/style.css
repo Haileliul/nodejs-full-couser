@@ -1,0 +1,11 @@
+body {
+    background-color: bisque;
+}
+
+h1 {
+    color:rgb(240, 27, 27);
+    font-family: 'Times New Roman', Times, serif;
+}
+img {
+    border-radius: 25px;
+}
